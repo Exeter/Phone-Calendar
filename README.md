@@ -10,3 +10,4 @@ Plan:
   - ???
   - (Non-)Profit
 
+  - Google cal API: https://developers.google.com/resources/api-libraries/documentation/calendar/v3/java/latest/
