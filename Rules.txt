@@ -1,0 +1,7 @@
+Repo Rules:
+
+1. Do not edit if you are not in the members list
+2. Do not troll
+3. Comment your code well
+4. Write a brief description of any changes you made every time you push
+5. Do not revert to an older version without the permission from all of the members on the members list
