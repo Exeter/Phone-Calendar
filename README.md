@@ -11,3 +11,10 @@ Plan:
   - (Non-)Profit
 
   - Google cal API: https://developers.google.com/resources/api-libraries/documentation/calendar/v3/java/latest/
+
+
+Stuff for Mr. Sea's schedule
+ - [Computer-readable form for Mr. Sea's schedules](https://csserver.exeter.edu/schedule/icalmaker.php)
+ - [Actual endpoint](https://csserver.exeter.edu/schedule/icalgenerator.php)
+ - You can automate those requests by crafting POST requests to the endpoint
+ - Talk to him about it!
